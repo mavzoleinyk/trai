@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1420791944"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiD:\DEV\Tray1\lib\x86_64-win64 -FuD:\DEV\Tray1\ -FUD:\DEV\Tray1\lib\x86_64-win64\ -FED:\DEV\Tray1\ -oD:\DEV\Tray1\constray.exe constray.lpr"/>
+</CONFIG>
